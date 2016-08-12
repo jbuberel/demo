@@ -1,4 +1,4 @@
-Contributing to Astropy
+Contributing to Astrophy
 =======================
 
 Reporting Issues
